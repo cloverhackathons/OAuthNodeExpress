@@ -2,8 +2,8 @@ const express = require('express');
 const axios = require('axios');
 
 // Config Set Up
-const appID = '4ZV3SM78DV968'; // Input your app ID here
-const appSecret = '85c407b3-46b4-bdde-a1a0-9b68e8b3022a'; // Input your app secret here
+const appID = ''; // Input your app ID here
+const appSecret = ''; // Input your app secret here
 const targetEnv = 'https://sandbox.dev.clover.com'; // Pointing to Sandbox Environment
 
 // Initialize Express
