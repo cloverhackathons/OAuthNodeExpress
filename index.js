@@ -6,9 +6,8 @@ const axios = require('axios');
 // const targetEnv = 'https://sandbox.dev.clover.com'; // Pointing to Sandbox Environment
 // const targetEnv = 'https://www.clover.com'; // Pointing to Prod Environment
 
-const appID = 'PCE9V99BGBW0G'; // Input your app ID here
-const appSecret = 'be6cbf95-0cb0-7932-9662-5bfda6f0dc30'; // Input your app secret here
-const targetEnv = 'https://www.eu.clover.com'; // Pointing to EU Environment
+const appID = ''; // Input your app ID here
+const appSecret = ''; // Input your app secret here
 
 // Initialize Express
 const app = express();
