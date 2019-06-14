@@ -1,0 +1,19 @@
+{
+  "name": "OAuth",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "server": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.1",
+    "event-stream": "^3.3.4",
+    "express": "^4.16.4",
+    "nodemon": "^1.18.4"
+  }
+}
